@@ -4,7 +4,7 @@ export function NotFoundPage() {
   return (
     <div className="auth-page" data-testid="not-found-page">
       <div className="card auth-card">
-        <h1>404 — Not foundooo</h1>
+        <h1>404 — Not founds</h1>
         <p>The page you requested does not exist.</p>
         <Link to="/" className="btn btn-primary" data-testid="not-found-home">
           Go to dashboard
